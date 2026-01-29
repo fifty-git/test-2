@@ -1,0 +1,38 @@
+[
+  {
+    "id": "fp001",
+    "name": "Gummy Pink Bouquet Bar Flower Kit",
+    "category": "Bouquet Bar Kits",
+    "price": 149.99,
+    "badge": "Most Popular",
+    "inStock": true,
+    "type": "DIY Kit"
+  },
+  {
+    "id": "fp002",
+    "name": "On Cloud Wine DIY Flower Kit",
+    "category": "DIY Flower Kits",
+    "price": 149.99,
+    "badge": "Trending",
+    "inStock": true,
+    "type": "DIY Kit"
+  },
+  {
+    "id": "fp003",
+    "name": "Gummy Pink DIY Flower Kit",
+    "category": "DIY Flower Kits",
+    "price": 154.99,
+    "badge": null,
+    "inStock": true,
+    "type": "DIY Kit"
+  },
+  {
+    "id": "fp004",
+    "name": "On Cloud Wine Flower Centerpiece",
+    "category": "Centerpieces",
+    "price": 119.99,
+    "badge": null,
+    "inStock": true,
+    "type": "Centerpiece"
+  }
+]
